@@ -1,0 +1,49 @@
+{
+  "routes": [
+    {
+      "line": "Blue Line",
+      "color": "#0072BC",
+      "stations": ["Noida Electronic City", "Noida Sector 62", "Noida Sector 59", "Noida Sector 61", "Noida Sector 52", "Noida Sector 34", "Noida City Centre", "Golf Course", "Botanical Garden", "Noida Sect 18", "Noida Sect 16", "Noida Sect 15", "New Ashok Nagar", "Mayur Vihar Ext", "Mayur Vihar-I", "Akshardham", "Yamuna Bank", "Indraprasta", "Supreme Court", "Mandi House", "Barakhamba", "Rajiv Chowk", "RK Ashram Marg", "Jhandewalan", "Karol Bagh", "Rajendra Place", "Patel Nagar", "Shadi Pur", "Kirti Nagar", "Moti Nagar", "Ramesh Nagar", "Rajouri Garden", "Tagore Garden", "Subash Nagar", "Tilak Nagar", "Janak Puri East", "Janak Puri West", "Uttam Nagar East", "Uttam Nagar West", "Nawada", "Dwaraka Mor", "Dwarka", "Dwarka Sector - 14", "Dwarka Sector - 13", "Dwarka Sector - 12", "Dwarka Sector - 11", "Dwarka Sector - 10", "Dwarka Sector - 9", "Dwarka Sector - 8", "Dwarka Sector - 21"]
+    },
+    {
+      "line": "Blue Line Extension",
+      "color": "#0072BC",
+      "stations": ["Yamuna Bank", "Laxmi Nagar", "Nirman Vihar", "Preet Vihar", "Karkar Duma", "Anand Vihar", "Kaushambi", "Vaishali"]
+    },
+    {
+      "line": "Pink Line",
+      "color": "#E91E63",
+      "stations": ["Mukundpur Depot", "Majlis Park", "Azadpur", "Shalimar Bagh", "Netaji Subhash Place", "Makurpur", "Punjabi Bagh West", "ESI Hospital", "Rajouri Garden", "Maya Puri", "Nariana Vihar", "Delhi Cantt", "Deshmukh South Campus", "Sir Vishweshwaraiah Moti Bagh", "Bhikaji Cama Place", "Sarojini Nagar", "INA", "South Extension", "Lajpat Nagar", "Vinobapuri", "Ashram", "Hazrat Nizamuddin", "Mayur Vihar - I", "Mayur Vihar Pocket 1", "Trilok Puri Sanjay Lake", "Vinod Nagar East", "Vinod Nagar", "IP Extension", "Anand Vihar", "Karkarduma", "Karkarduma Court", "Krishna Nagar", "East Azad Nagar", "Welcome", "Jaffrabad", "Maujpur", "Gokul Puri", "Johri Enclave", "Shiv Vihar"]
+    },
+    {
+      "line": "Yellow Line",
+      "color": "#FFFF00",
+      "stations": ["Samaypur Badli", "Rohini Sector 18,19", "Haiderpur Badli Mor", "Jahangirpuri", "Adarsh Nagar", "Azadpur", "Model Town", "GTB Nagar", "Viswavidyalaya", "Vidhan Sabha", "Civil Lines", "Kashmere Gate", "Chandhni Chowk", "Chawri Bazar", "New Delhi", "Rajiv Chowk", "Patel Chowk", "Central Secretariat", "Udyog Bhawan", "Lok Kalyan Marg", "Jorbagh", "INA", "AIIMS", "Green Park", "Hauz Khas", "Malvia Nagar", "Saket", "Qutab Minar", "Chhattarpur", "Sultanpur", "Ghotorni", "Arjan Garh", "Gurudronacharya", "Sikandarpur", "MG Road", "IFFCO Chowk", "Huda City Centre"]
+    },
+    {
+      "line": "Orange Line (Airport Express)",
+      "color": "#FF9E1B",
+      "stations": ["New Delhi", "Shivaji Stadium", "Dhaula Kuan", "Delhi Aerocity", "IGI Airport", "Dwarka Sector 21"]
+    },
+    {
+      "line": "Red Line",
+      "color": "#ED1C24",
+      "stations": ["Shaheed Sthal (New Bus Adda)", "Hindon", "Mohan Nagar", "Arthala", "Shyam park", "Major Mohit Sharma", "Raj Bagh", "Shaheed Nagar", "Dilshad Garden", "Jhilmil", "Mansarovar Park", "Shahdara", "Welcome", "Seelampur", "Shastri Park", "Kashmere Gate", "Tis Hazari", "Pul Bangash", "Pratap Nagar", "Shastri Nagar", "Inderlok", "Kanhiya Nagar", "Keshav Puram", "Netaji Subhash Place", "Kohat Enclave", "Pitam Pura", "Rohini East", "Rohini West", "Rithala"]
+    },
+    {
+      "line": "Violet Line",
+      "color": "#8A2BE2",
+      "stations": ["Kashmere Gate", "Lal Quila", "Jama Masjid", "Delhi Gate", "ITO", "Mandi House", "Janpath", "Central Secretariat", "Khan Market", "Jawaharlal Nehru Stadium", "Lajpat Nagar", "Moolchand", "Kailash Colony", "Nehru Place", "Kalkaji Mandir", "Govind Puri", "Harkesh Nagar", "Jasola Apollo", "Sarita Vihar", "Mohan Estate", "Tughlakabad", "Badarpur", "Sarai", "NHPC Chowk", "Mewla Maharajpur", "Sector 28", "Badkhal Mor", "Faridabad Old", "Neelam Chowk Ajronda", "Bata Chowk", "Escorts Mujesar", "Sant Surdas — Sihi (NCB Colony)", "Raja Nahar Singh (Ballabhgarh)"]
+    },
+    {
+      "line": "Green Line",
+      "color": "#00A550",
+      "stations": ["Kirti Nagar", "Satguru Ram Singh Marg", "Punjabi Bagh", "Punjabi Bagh West", "Ashok Park Main", "Inderlok", "Shivaji Park", "Madipur", "Paschim Vihar East", "Paschim Vihar West", "Peera Garhi", "Udyog Nagar", "Surajmal Stadium", "Nangloi", "Nangloi Railway Station", "Rajdhani Park", "Mundka", "Mundka Industrial Area (MIA)", "Ghevra", "Tikri Kalan", "Tikri Border", "Pandit Shree Ram Sharma (Mordern Industrial Estate)", "Bahadurgarh City", "Brigadier Hoshiyar Singh (Bahadurgarh City Park)"]
+    },
+    {
+      "line": "Magenta Line",
+      "color": "#FF00FF",
+      "stations": ["Janakpuri West", "Dabri Mor", "Dashrath Puri", "Palam", "Sadaar Bazaar Cantonment", "Terminal 1 IGI Airport", "Shankar Vihar", "Vasant Vihar", "Munirka", "R.K Puram", "IIT Delhi", "Hauz Khas", "Panchsheel Park", "Chirag Delhi", "Greater Kailash", "Nehru Enclave", "Kalkaji Mandir", "Okhla NSIC", "Sukhdev Vihar", "Jamia Millia Islamia", "Okhla Vihar", "Jasola Vihar Shaheen Bagh", "Kalindi Kunj", "Okhla Bird Sanctuary", "Botanical Garden"]
+    }
+  ]
+}

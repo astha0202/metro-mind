@@ -1,0 +1,13 @@
+{
+  "trains": [
+    {"id": "T1", "line": "Blue Line", "lat": 28.6190, "lng": 77.1100, "status": "On Time"},
+    {"id": "T2", "line": "Blue Line Extension", "lat": 28.6400, "lng": 77.3200, "status": "Delayed"},
+    {"id": "T3", "line": "Yellow Line", "lat": 28.6150, "lng": 77.2100, "status": "On Time"},
+    {"id": "T4", "line": "Pink Line", "lat": 28.6400, "lng": 77.2700, "status": "On Time"},
+    {"id": "T5", "line": "Violet Line", "lat": 28.5600, "lng": 77.2500, "status": "Running Late"},
+    {"id": "T6", "line": "Red Line", "lat": 28.7000, "lng": 77.1700, "status": "On Time"},
+    {"id": "T7", "line": "Magenta Line", "lat": 28.5500, "lng": 77.1900, "status": "On Time"},
+    {"id": "T8", "line": "Green Line", "lat": 28.6700, "lng": 77.1200, "status": "On Time"},
+    {"id": "T9", "line": "Orange Line", "lat": 28.5750, "lng": 77.1000, "status": "On Time"}
+  ]
+}

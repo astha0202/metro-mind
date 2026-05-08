@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Metro Partner</title>
+
+  <link rel="stylesheet" href="/static/style.css">
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+
+<body>
+
+<div class="sidebar">
+  <h2>🚇 My Metro Partner</h2>
+
+  <label>From</label>
+  <div class="input-box">
+    <input id="originStation">
+    <div id="originDropdown" class="dropdown"></div>
+  </div>
+
+  <label>To</label>
+  <div class="input-box">
+    <input id="destinationStation">
+    <div id="destinationDropdown" class="dropdown"></div>
+  </div>
+
+  <button onclick="findRoute()">Find Route</button>
+
+  <div id="routes"></div>
+
+  <!-- 🔥 NEW DETAILS SECTION -->
+  <div id="details"></div>
+
+</div>
+
+<div id="map"></div>
+<div id="liveBox">
+  <h3>🚇 Live Metro</h3>
+  <p id="liveTime"></p>
+  <p id="progress"></p>
+  <button onclick="toggleVoice()">🔊 Voice</button>
+</div>
+<script src="/static/main.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", ()=>init());
+</script>
+
+</body>
+</html>
